@@ -1,3 +1,7 @@
+
+fallowing are required config to run this Django app
+
+
 asgiref==3.7.2
 Django==4.2.5
 sqlparse==0.4.4
